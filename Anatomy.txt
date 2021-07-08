@@ -1,0 +1,48 @@
+FRONTEND:
+TAILWIND CSS
+React stuff
+Typescript 
+Feather Icons
+
+Backend => Custom WebServer made with Vert.x
+Tools:
+    Vert.x
+    mySQL
+    Yarn
+Notes:
+    A WebServer?
+        Software that serves web content. Anything that can be on the web and be transferred on the web.
+        Uses the HTTP protocol
+        Uses Static; bland content and Dynamic; responsive and highly changable tings. Content
+        Used to Host web pages
+    How does a web server work?
+        The client device makes a request to wherever the server is running (AWS) and it the server processes that request and return what its supossed to.
+    What does a web server do?
+        1. Listens
+            waits for requests. Does nothing until we get a request
+        2. On a port
+            http port 80
+        3. For a request
+            literelly a request like post, get etc. 
+            HTTP request lol
+            HTTP and FTP are collective meaning you cant mix them up
+        4. Transport protocol
+             TCP protocol a shipper kinda service.
+        5. Response
+            We get on abck from the server.
+            Suppose we have a button to show us a numebr one.
+            Once we press the button... we send a request GJ
+            then the server gets that and goes to its code and handles the task it supposed to do when the button is pressed: in this case to show the nnumber 1.
+        6. Resource
+            Routing
+            /LOL/stoopid/dank/dum-dum
+            Static routing is basically just like a file system <== this is boring doe this is used when we have stuff were data doesnt change often.
+            Dynamic routing is when we have data that often changes like a users feed or profile
+                You cant do this statically so you woukld save the current state of that to a database and update it dynamically.
+                A place where our app can start and then based on requests we can make a collective redirect to the server that the user wants to go to.
+
+    What is a database?
+        Basically its an organized collection of data.
+        mySQL is a relational database
+            It is filled with tables that have rows and columns
+
