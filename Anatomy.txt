@@ -107,3 +107,4 @@ Notes:
 
         The Re­ac­ti­verse is a larger com­mu­nity around the re­ac­tive ecosys­tems where you can find more client and mod­ules.
         The Vert.x Awe­some repos­i­tory pro­vides links to even more in­ter­est­ing projects from the larger open-​source com­mu­nity!
+          
