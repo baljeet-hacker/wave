@@ -72,7 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 # Backend
 
-image:https://img.shields.io/badge/vert.x-4.1.1-purple.svg[link="https://vertx.io"]
 
 This application was generated using http://start.vertx.io
 
