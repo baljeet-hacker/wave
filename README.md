@@ -3,7 +3,7 @@
 A dynamic Social Media
 
 > A React.js & VERT.x project
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
