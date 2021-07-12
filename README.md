@@ -71,8 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 # Backend
-
-
 This application was generated using http://start.vertx.io
 
 == Building
