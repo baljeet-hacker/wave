@@ -1,4 +1,4 @@
-package com.wave.server;
+package com.wave.backend;
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Promise;
