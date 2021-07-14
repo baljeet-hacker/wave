@@ -1,11 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Navbar from './components/Navbar'
 
 function App() {
   return (
     <div className="app">
-      <h1 className="text-red-400">Epick fam</h1>
+      <Navbar />
     </div>
   );
 }
