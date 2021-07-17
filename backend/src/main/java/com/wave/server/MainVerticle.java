@@ -23,7 +23,7 @@ public class MainVerticle extends AbstractVerticle {
       System.out.println(name);
       context.response().putHeader("lol", "text/plain").end("HELLO " + name);
     });
-
+    // JWT AUTH HERE
     // Create the HTTP server
     vertx.createHttpServer()
         // Handle every request using the router
